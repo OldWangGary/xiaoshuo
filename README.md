@@ -4,11 +4,6 @@
 ## 声明
 软件仅供学习交流使用，禁止商业使用，禁止用来做危害网络安全的事情，因错误使用造成的危害由使用者负责。
 
-### 使用方法
-[点击观看](https://www.example.com)
-### 下载
-[点此下载](https://www.example.com)
-
 ### 核心代码
 
     `    res = requests.get(url).text
